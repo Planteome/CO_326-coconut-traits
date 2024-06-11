@@ -1,0 +1,256 @@
+Variable ID,Variable name,Variable synonyms,Context of use,Growth stage,Variable status,Variable Xref,Institution,Scientist,Date,Language,Crop
+CO_326:0000056,SNutGermPct_Comp_Pct,MAX_PERC,Characterization/evaluation: Germination,Seed bed,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44259,EN,Coconut
+CO_326:0000335,FrSEndDryMt_Meas_Pct,S_E_DR_MAT,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000338,FrSEndDryMt_CompM_Pct,S_E_DR_MAT,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000340,FrSEndDryMt_CompSD_Pct,SD31,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000342,FrDrySEndOil_Meas_Pct,DR_ME_OIL,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000345,FrDrySEndOil_CompM_Pct,SD36,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000347,FrDrySEndOil_CompSD_Pct,FR_ME_OIL,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000349,FrSEndOil_Comp_Pct,FR_ME_OIL,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000352,FrSEndOil_CompM_Pct,FR_ME_OIL,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000354,FrSEndOil_CompSD_Pct,SD37,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000356,FrHuskPct_Comp_Pct,,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Recommended,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000359,FrNutPct_Comp_Pct,,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Recommended,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000362,FrShellNPct_Comp_Pct,,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Recommended,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000365,FrMeatNPct_Comp_Pct,,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Recommended,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000368,FrWatNPct_Comp_Pct,,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Recommended,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000384,YMortality_Comp_Pct,MORTALITY,Characterization/evaluation: Fruit Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000390,YBunch_Count_BunchPerYear,BUN_P_Y_NB,Characterization/evaluation: Fruit Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000394,YBunch_CompM_BunchPerYear,BUN_P_Y_NB,Characterization/evaluation: Fruit Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000396,YBunch_CompSD_BunchPerYear,SD32,Characterization/evaluation: Fruit Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000071,StmGir_Meas_cm_H20,GIR_20,Characterization/evaluation: Stem Morphology,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43920,EN,Coconut
+CO_326:0000075,StmGir_CompM_cm_H20,GIR_20,Characterization/evaluation: Stem Morphology,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43920,EN,Coconut
+CO_326:0000077,StmGir_CompSD_cm_H20,SD38,Characterization/evaluation: Stem Morphology,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43920,EN,Coconut
+CO_326:0000079,StmGir_Meas_cm_H150,GIR_150,Characterization/evaluation: Stem Morphology,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43920,EN,Coconut
+CO_326:0000081,StmGir_CompM_cm_H150,GIR_150,Characterization/evaluation: Stem Morphology,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43920,EN,Coconut
+CO_326:0000083,StmGir_CompSD_cm_H150,SD39,Characterization/evaluation: Stem Morphology,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43920,EN,Coconut
+CO_326:0000089,Stm10IntnHt_Meas_cm,LEA_SC_HEI,Characterization/evaluation: Stem Morphology,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43920,EN,Coconut
+CO_326:0000092,Stm10IntnHt_CompM_cm,LEA_SC_HEI,Characterization/evaluation: Stem Morphology,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43920,EN,Coconut
+CO_326:0000094,Stm10IntnHt_CompSD_cm,SD43,Characterization/evaluation: Stem Morphology,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43920,EN,Coconut
+CO_326:0000099,StmHt_Meas_cm_T1,HEIGHT1,Characterization/evaluation: Stem,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44167,EN,Coconut
+CO_326:0000102,StmHt_compM_cm_T1,HEIGHT1,Characterization/evaluation: Stem,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44167,EN,Coconut
+CO_326:0000104,StmHt_compSD_cm_T1,SD40,Characterization/evaluation: Stem,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44167,EN,Coconut
+CO_326:0000108,StmHt_Meas_cm_T2,HEIGHT2,Characterization/evaluation: Stem,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44167,EN,Coconut
+CO_326:0000110,StmHt_compM_cm_T2,HEIGHT2,Characterization/evaluation: Stem,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44167,EN,Coconut
+CO_326:0000112,StmHt_compSD_cm_T2,SD41,Characterization/evaluation: Stem,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44167,EN,Coconut
+CO_326:0000120,LeafPetLen_Meas_cm,PETIO_LEN,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44278,EN,Coconut
+CO_326:0000123,LeafPetLen_CompM_cm,PETIO_LEN,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44257,EN,Coconut
+CO_326:0000125,LeafPetLen_CompSD_cm,SD2,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44257,EN,Coconut
+CO_326:0000127,LeafPetWdt_Meas_cm,PETIO_WID,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44278,EN,Coconut
+CO_326:0000130,LeafPetWd_CompM_cm,PETIO_WID,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44257,EN,Coconut
+CO_326:0000132,LeafPetWd_CompSD_cm,SD3,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44257,EN,Coconut
+CO_326:0000134,LeafPetThk_Meas_cm,PETIO_THIC,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44278,EN,Coconut
+CO_326:0000137,LeafPetThk_CompM_cm,PETIO_THIC,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44257,EN,Coconut
+CO_326:0000139,LeafPetThk_CompSD_cm,SD4,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44257,EN,Coconut
+CO_326:0000141,LeafRacLen_Meas_cm,RACHIS_LEN,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44278,EN,Coconut
+CO_326:0000144,LeafRacLen_CompM_cm,RACHIS_LEN,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44257,EN,Coconut
+CO_326:0000146,LeafRacLen_CompSD_cm,SD5,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44257,EN,Coconut
+CO_326:0000156,LeafLltLen_Meas_cm,LEALT_LEN,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44278,EN,Coconut
+CO_326:0000159,LeafLltLen_CompM_cm,LEALT_LEN,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44257,EN,Coconut
+CO_326:0000161,LeafLltLen_CompSD_cm,SD7,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44257,EN,Coconut
+CO_326:0000163,LeafLltWd_Mea_cm,LEALT_WID,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44278,EN,Coconut
+CO_326:0000166,LeafLltWd_CompM_cm,LEALT_WID,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44257,EN,Coconut
+CO_326:0000168,LeafLltWd_CompSD_cm,SD8,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44257,EN,Coconut
+CO_326:0000178,InflCAxLen_Meas_cm,CEN_AX_LEN,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000181,InflCAxLen_CompM_cm,CEN_AX_LEN,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000183,InflCAxLen_CompSD_cm,SD10,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000185,InflStlkLen_Meas_cm,,Characterization/evaluation: inflorescence,Mature,Recommended,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000188,InflStlkLen_CompM_cm,STALK_LEN,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000190,InflStlkLen_CompSD_cm,SD11,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000192,InflStlkGir_Meas_cm,,Characterization/evaluation: inflorescence,Mature,Recommended,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000195,InflStlkGir_CompM_cm,STALK_GIR,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000197,InflStlkGir_CompSD_cm,SD12,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000199,InflStlkWd_CompM_cm,STALK_WIDT,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000202,InflStlkWd_CompSD_cm,SD44,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000204,InflStlkThk_CompM_cm,STALK_THIC,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000207,InflStlkThk_CompSD_cm,SD45,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000223,InflSpikLen_Meas_cm,,Characterization/evaluation: inflorescence,Mature,Recommended,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000226,InflSpikLen_CompM_cm,SPIKLT_LEN,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000228,InflSpikLen_CompSD_cm,SD15,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000114,StmHtGrRate_Meas_cmPerYear,,Characterization/evaluation: Stem,Mature,Recommended,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44167,EN,Coconut
+CO_326:0000118,StmHtGrRate_Comp_cmPerYear,,Characterization/evaluation: Stem,Mature,Recommended,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44167,EN,Coconut
+CO_326:0000573,SrcPIsol__Code,ADJ_ISOL,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000577,SrcPNeighbor_Code,ADJ_TYPE,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000085,StmBolCat_Desc_code,BOLE_CAT,Characterization/evaluation: Stem Morphology,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43920,EN,Coconut
+CO_326:0000581,SrcPCollProcv,COLL_PRO,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000569,SrcPContext_Code,COLL_SRCE,Passport: Collection data,Permanent,Standard COGENT,SrcPInfo_Text,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000641,SrcPCropSys_Code,CROP_SYST,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000685,SrcPCrownApp_Code,CROWN,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000645,SrcPCultStat_Code,CULT_STAT,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000601,SrcPECStat_Code,EMBR_CULT,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000666,SrcPSpicF_Code,SPICATA,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000670,SrcPPlicF_Code,PLICATA,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000673,SrcPAndF_Code,ANDROGENA,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000676,SrcPMakF_Code,MAKAPUNO,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000682,SrcPAltCarF_Code,OTHER_FREQ,Passport: Collection data,Permanent,Standard COGENT,SrcPAltCar_CAR,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000593,SrcPAppear_Code,APPEARANCE,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000562,SrcPGenStr_Code,GENERATION,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000630,SrcPSmplNbM_Code,ME_SAMPLE,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000558,SrcPOrigKn_Code,ORIGINE,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000597,SrcPPollSrc_Code,POLLEN_SRC,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000513,AccPollGroup_Code,POLL_GROUP,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000494,SrcPFTNbP_Code,EX_FEM_POP,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000504,SrcPMTNbP_Code,EX_MAL_POP,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000624,SrcPSizaAcc_Code,EX_SAMPLE,Passport: Collection data,Permanent,Standard COGENT,SrcPSmplNb_Count_Palms,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000613,SrcPSizeAcc_SIZ_POP,EX_SIZ_POP,Passport: Collection data,Permanent,Standard COGENT,SrcPSize_Count_Unit,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000585,SrcPSamProc_Code,SAMP_PRO,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000273,FrShpEqu_Desc_Code,FR_EQU_SEC,Characterization/evaluation: Fruit Morphology,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000269,FrShpPol_Desc_Code,FR_POL_SEC,Characterization/evaluation: Fruit Morphology,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000617,SrcPSizeUnit__Code,UN_SIZ_POP,Passport: Collection data,Permanent,Standard COGENT,SrcPSize_Count_Unit,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000589,SrcPSamStatv,STAT_SAMP,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000605,SrcPTCStat_Code,TISS_CULT,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000527,AccTypeMaint_Code,TYPE_MAIN,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000517,AccTypeMat_Code,TYPE_MAT,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000655,SrcPUse1_Code,USE1,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000659,SrcPUse2_Code,USE2,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000661,SrcPUse3_Code,USE3,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000470,AccVGrCat_Code,CATEGORY,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000474,AccCol1_Code,COLOUR1,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000478,AccCol2_Code,COLOUR2,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000479,AccCol3_Code,COLOUR3,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000023,AccHarvDt_Rec_Date,HARVEST_DT,Characterization/evaluation: Germination,Seed bed,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44272,EN,Coconut
+CO_326:0000027,AccFieldDt_Rec_Date,FIE_EST_DT,Characterization/evaluation: Environment,Field establishment,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44272,EN,Coconut
+CO_326:0000034,SNutSowDt_Rec_Date ,SOWING_DT,Characterization/evaluation: Germination,Seed bed,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44279,EN,Coconut
+CO_326:0000064,StmGirMsDt_Meas_Date,TIM_MEA_AG,Characterization/evaluation: Stem Morphology,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43920,EN,Coconut
+CO_326:0000096,StmHtMsDt_Obs_Date_T1,DATE1,Characterization/evaluation: Stem,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44167,EN,Coconut
+CO_326:0000106,StmHtMsDt_Obs_Date_T2,DATE2,Characterization/evaluation: Stem,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44167,EN,Coconut
+CO_326:0000378,YObsBDt_Obs_Date,OBS_BEG_DT,Characterization/evaluation: Fruit Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000381,YObsEDt_Obs_Date,OBS_END_DT,Characterization/evaluation: Fruit Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000510,AccAcqDt_Date,ACQ_DATE,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000524,AccInventDt_Date,AC_SIZE_DT,Passport: Accession data,Permanent,Standard COGENT,AccCurTreeNb_Count_Palms,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000540,SrcPCollDt_Date,COLL_DATE,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000043,SNutTTo25_Count_D,GERM_25,Characterization/evaluation: Germination,Seed bed,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44259,EN,Coconut
+CO_326:0000047,SNutTTo50_Count_D,GERM_50,Characterization/evaluation: Germination,Seed bed,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44259,EN,Coconut
+CO_326:0000050,SNutTTo75_Count_D,GERM_75,Characterization/evaluation: Germination,Seed bed,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44259,EN,Coconut
+CO_326:0000053,SNutTToMax_Count_D,GERM_MAX,Characterization/evaluation: Germination,Seed bed,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44259,EN,Coconut
+CO_326:0000258,InflPerBtw_Count_D,SU_INF_PER,Characterization/evaluation: Flowering,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44470,EN,Coconut
+CO_326:0000262,InflPerBtw_compM_D,SU_INF_PER,Characterization/evaluation: Flowering,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44470,EN,Coconut
+CO_326:0000264,InflPerBtw_compSD_D,SD22,Characterization/evaluation: Flowering,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44470,EN,Coconut
+CO_326:0000689,InfFemPhase_Count_D,FEM_PH_LEN,Characterization/evaluation: Flowering,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44470,EN,Coconut
+CO_326:0000692,InfFemPhase_CompM_D,FEM_PH_LEN,Characterization/evaluation: Flowering,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44470,EN,Coconut
+CO_326:0000693,InfFemPhase_CompSD_D,SD20,Characterization/evaluation: Flowering,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44470,EN,Coconut
+CO_326:0000694,InfBetPhase_Count_D,INT_PH_PER,Characterization/evaluation: Flowering,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44470,EN,Coconut
+CO_326:0000697,InfBetPhase_CompM_D,INT_PH_PER,Characterization/evaluation: Flowering,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44470,EN,Coconut
+CO_326:0000698,InfBetPhase_CompSD_D,SD21,Characterization/evaluation: Flowering,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44470,EN,Coconut
+CO_326:0000699,InfMalPhase_Count_D,MAL_PH_LEN,Characterization/evaluation: Flowering,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44470,EN,Coconut
+CO_326:0000702,InfMalPhase_CompM_D,MAL_PH_LEN,Characterization/evaluation: Flowering,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44470,EN,Coconut
+CO_326:0000703,InfMalPhase_CompSD_D,SD19,Characterization/evaluation: Flowering,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44470,EN,Coconut
+CO_326:0000285,FruitWt_Meas_g,FR_WEI,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000289,FruitWt_CompM_g,FR_WEI,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000291,FruitWt_CompSD_g,SD26,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000293,FrNutWt_Meas_g,NUT_WEI,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000296,FrNutWt_CompM_g,NUT_WEI,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000298,FrNutWt_CompSD_g,SD27,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000300,FrHskWt_Comp_g,HUSK_WEI,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000303,FrHskWt_CompM_g,HUSK_WEI,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000305,FrHskWt_CompSD_g,SD46,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000307,FrSpNtWt_Meas_g,s_an_m_wei,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000310,FrSpNtWt_CompM_g,s_an_m_wei,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000312,FrSpNtWt_CompSD_g,sd28,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000314,FrShellWt_Meas_g,SHELL_WEI,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000317,FrShellWt_CompM_g,SHELL_WEI,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000319,FrShellWt_CompSD_g,SD29,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000321,FrMeatWt_Comp_g,meat_wei,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000324,FrMeatWt_CompM_g,meat_wei,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000326,FrMeatWt_CompSD_g,sd42,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000328,FrWatWt_Comp_g,WATER_WEI,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000331,FrWatWt_CompM_g,WATER_WEI,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000333,FrWatWt_CompSD_g,SD47,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000371,FrSEndoWt_Comp_g,ENDO_WEI,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000374,FrSEndWt_CompM_g,ENDO_WEI,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000376,FrSEndWt_CompSD_g,SD48,Characterization/evaluation: Fruit Component Analysis (FCA),Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000638,SrcPPollWt_WEI,POLLEN_WEI,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000001,ESitRiCntry_Code,RI_COUNTRY,Characterization/evaluation: Environment,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44272,EN,Coconut
+CO_326:0000406,FrCopWt_comp_g,CO_NUT_WEI,Characterization/evaluation: Copra/oil Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000410,FrCopWt_compM_g,CO_NUT_WEI,Characterization/evaluation: Copra/oil Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000412,FrCopWt_compSD_g,SD34,Characterization/evaluation: Copra/oil Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000414,YCop_comp_kgPerYear,CO_P_Y_YIE,Characterization/evaluation: Copra/oil Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000417,YCop_compM_kgPerYear,CO_P_Y_YIE,Characterization/evaluation: Copra/oil Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000419,YCop_compSD_kgPerYear,SD35,Characterization/evaluation: Copra/oil Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000016,ESitElev_Meas_m,RI_ELEVAT,Characterization/evaluation: Environment,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44272,EN,Coconut
+CO_326:0000277,FrEndoThk_Meas_mm,ENDO_THIC,Characterization/evaluation: Fruit Morphology,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000281,FrEndoThk_CompM_mm,ENDO_THIC,Characterization/evaluation: Fruit Morphology,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000283,FrEndoThk_CompSD_mm,SD30,Characterization/evaluation: Fruit Morphology,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000244,AccUSpaAge_Meas_months,NOP_INF_AG,Characterization/evaluation: Flowering,Flowering initiation,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000248,AccOpInfAge_Meas_months,OP_INF_AG,Characterization/evaluation: Flowering,Flowering initiation,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000009,ESitLat_Meas_Deg,RI_LAT,Characterization/evaluation: Environment,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44272,EN,Coconut
+CO_326:0000013,ESitLon_Meas_Deg,RI_LONG,Characterization/evaluation: Environment,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44272,EN,Coconut
+CO_326:0000037,SNutSowNb_Count_Nut,GER_SET_NB,Characterization/evaluation: Germination,Seed bed,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44279,EN,Coconut
+CO_326:0000040,SNutGermNb_Count_Nut,GER_NUT_NB,Characterization/evaluation: Germination,Seed bed,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44259,EN,Coconut
+CO_326:0000148,LeafLltNum_Coun_Nb,LEALT_NB,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44278,EN,Coconut
+CO_326:0000152,LeafLltNum_CompM_Nb,LEALT_NB,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44257,EN,Coconut
+CO_326:0000154,LeafLltNum_CompSD_Nb,SD6,Characterization/evaluation: Leaf Morphology,Mature,Standard COGENT,,CIRAD,HAMELIN C. https://orcid.org/0000-0001-7462-2345,44257,EN,Coconut
+CO_326:0000209,InflSpikWFF_Meas_nb,,Characterization/evaluation: inflorescence,Mature,Recommended,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000212,InflSpikWFF_CompM_nb,F_FL_SP_NB,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000214,InflSpikWFF_CompSD_nb,SD13,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000216,InflSpikWoFF_Meas_nb,,Characterization/evaluation: inflorescence,Mature,Recommended,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000219,InflSpikWoFF_CompM_nb,N_FL_SP_NB,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000221,InflSpikWoFF_CompSD_nb,SD14,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000230,InflFFNb_Meas_nb,,Characterization/evaluation: inflorescence,Mature,Recommended,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000233,InflFFNb_CompM_nb,FEM_FL_NB,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000235,InflFFNb_CompSD_nb,SD16,Characterization/evaluation: inflorescence,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000237,InflNbPerY_Meas_nbPerYear,,Characterization/evaluation: Flowering,Mature,Recommended,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000240,InflNbPerY_CompM_nbPerYear,Y_INF_NB,Characterization/evaluation: Flowering,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000242,InflNbPerY_CompSD_nbPerYear,SD17,Characterization/evaluation: Flowering,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000251,LeafNbToInf_Meas_nb,,Characterization/evaluation: Flowering,Flowering initiation,Recommended,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000254,LeafNbToInf_CompM_nb,B_IN_LE_NB,Characterization/evaluation: Flowering,Flowering initiation,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000256,LeafNbToInf_CompSD_nb,SD25,Characterization/evaluation: Flowering,Flowering initiation,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000552,SrcPLat_LAT,COLL_LAT,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000555,SrcPLon_LONG,COLL_LONG,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000621,SrcPDens,DENSITY,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000170,LeafPrRate_Count_LfPerYear,Y_LEA_NB,Characterization/evaluation: Leaf Emission,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43947,EN,Coconut
+CO_326:0000174,LeafPrRate_CompM_LfPerYear,Y_LEA_NB,Characterization/evaluation: Leaf Emission,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43947,EN,Coconut
+CO_326:0000176,LeafPrRate_CompSD_LfPerYear,SD9,Characterization/evaluation: Leaf Emission,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43947,EN,Coconut
+CO_326:0000398,YNut_Count_NutPerYear,RN_P_Y_NB,Characterization/evaluation: Fruit Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000402,YNut_CompM_NutPerYear,RN_P_Y_NB,Characterization/evaluation: Fruit Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000404,YNut_CompSD_NutPerYear,SD33,Characterization/evaluation: Fruit Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000030,AccDens_Rec_PalmPerha,PL_DENSITY,Characterization/evaluation: Environment,Field establishment,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44272,EN,Coconut
+CO_326:0000067,StmTreeSmpNb_Count_nb,SAMPL_SIZE,Characterization/evaluation: Stem Morphology,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43920,EN,Coconut
+CO_326:0000266,FrTreeAnaNb_Count_Tree,NB_TREES,Characterization/evaluation: Fruit Morphology,Mature,Standard COGENT,,CIRAD,Garavito A. https://orcid.org/0000-0002-0864-8608,44258,EN,Coconut
+CO_326:0000387,YProdPalmEnd_Count_Palms,OBS_P_NB,Characterization/evaluation: Fruit Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44256,EN,Coconut
+CO_326:0000436,AccCurTreeNb_Count_Palms,LAST_SIZE,Passport: Accession data,Permanent,Standard COGENT,AccInventDt_Date,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000439,AccOriTreeNb_Count_Palms,ORI_SIZE,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000442,AccPresSt_txt,PRES_STAT,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000491,SrcPFTNb_Count_Palms,NB_FEM_POP,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000498,SrcPFSNb_Count_Palms,NB_FEM_SAM,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000501,SrcPMTNb_Count_Palms,NB_MAL_POP,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000507,SrcPMSNb_Count_Palms,NB_MAL_SAM,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000521,AccSize_Count_Palm,acc_size,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000627,SrcPSmplNb_Count_Palms,NB_SAMPLE,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000704,YTreeHarvest_Count_Tree,OBS_P_NB,Characterization/evaluation: Fruit Yield,Mature,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000634,SrcPCollNb_Count_Seednuts,NB_SEEDNUT,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000005,ESitRiName_Code,RI_NB,Characterization/evaluation: Environment,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44272,EN,Coconut
+CO_326:0000020,ESitName_Text,RI_FARM,Characterization/evaluation: Environment,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44272,EN,Coconut
+CO_326:0000421,SrcPColsit_Text,COLL_SITE,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000424,AccInfo_Text,ACC_NOTES,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000427,SrcPInfo_Text,COLL_NOTES,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000430,AccEvInfo2_Text,EVAL_NOTES,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000433,AccEvInfo1_Text,EVALUATOR,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000445,ESitName2_Text,site,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000448,AccNb_Code,access_nb,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000451,SrcPDonor_Text,donor_name,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000454,SrcPAccNb_Code,donor_nb,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000457,SrcPFAccNb_acc_Code,fem_acc_nb,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000460,SrcPMAccNb_acc_Code,mal_acc_nb,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000463,AccAltNum1_Text,other_nb1,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000466,AccAltNum2_Text,other_nb2,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000468,AccAltNum3_Text,other_nb3,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000480,AccCultName_Text,cult_name,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000483,AccAltName1_Text,synonym1,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000486,AccAltName2_Text,synonym2,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000487,AccAltName3_Text,synonym3,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000488,AccCNAbbrev_Text,abbrev,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000531,SrcPCollInst_text,COLL_INST,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000534,SrcPSiteNb_text,SITE_NB,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000537,SrcPCollNb_text,COLL_NB,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000543,SrcPCntry_Code,COUNTRY,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000546,SrcPProv_Text,PROVINCE,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000549,SrcPDept_Text,DEPT,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000649,SrcPLocName_NAME,LOC_NAME,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000652,SrcPLang_Code,LANGUAGE,Passport: Collection data,Permanent,Standard COGENT,SrcPLocName_NAME,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000663,SrcPUseAlt_txt,OTHER_USE,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000679,SrcPAltCar_CAR,OTHER_CAR,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000707,AccPop_Text,POPULATION,Passport: Accession data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000609,SrcPSize_Count_Unit,SIZE_POP,Passport: Collection data,Permanent,Standard COGENT,SrcPSizeUnit__Code,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
+CO_326:0000060,StmGirMsAge_Meas_Years,TIM_MEA_AG,Characterization/evaluation: Stem Morphology,Mature,Standard COGENT,,CIRAD,Bocs https://orcid.org/0000-0001-7850-4426,43920,EN,Coconut
+CO_326:0000566,SrcPAge_Eval_Year,AGE,Passport: Collection data,Permanent,Standard COGENT,,CIRAD,Baudouin https://orcid.org/https://orcid.org/0000-0003-2620-7125,44474,EN,Coconut
